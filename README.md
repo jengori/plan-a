@@ -13,4 +13,4 @@ To use Bootstrap to style the home page for a homework tracker.
 ### Links
 
 - Repository URL: https://github.com/jengori/plan-a
-- Live Site URL: 
+- Live Site URL: https://jengori.github.io/plan-a
